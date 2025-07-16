@@ -7,7 +7,7 @@ Computer Science, Software Engineer, Full Stack, Machine Learning
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">ldsysson0429@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/yuseong-son-745456352/">My linkedIn page</a>
 </div>
 
 

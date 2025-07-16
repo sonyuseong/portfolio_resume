@@ -1,5 +1,5 @@
 ---
-title: "about me"
+title: "Yuseong Son Resume"
 subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
